@@ -15,3 +15,11 @@ cpp,memory_pressure,16,96,0
 cpp,memory_pressure,32,192,0
 cpp,memory_pressure,64,384,0
 cpp,memory_pressure,128,768,0
+rust,memory_pressure,1,0.0,0.0
+rust,memory_pressure,2,0.0,0.0
+rust,memory_pressure,4,0.0,0.0
+rust,memory_pressure,8,0.0,0.0
+rust,memory_pressure,16,0.0,0.0
+rust,memory_pressure,32,0.0,0.0
+rust,memory_pressure,64,0.0,0.0
+rust,memory_pressure,128,0.0,0.0

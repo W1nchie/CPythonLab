@@ -27,3 +27,17 @@ cpp,pipeline,copy_pipeline,32,55.8478,572.986
 cpp,pipeline,view_pipeline,32,48.2592,663.086
 cpp,pipeline,copy_pipeline,64,113.263,565.056
 cpp,pipeline,view_pipeline,64,74.7666,855.997
+rust,pipeline,copy_pipeline,1,0.41,2439.0243842950626
+rust,pipeline,view_pipeline,1,0.0896,11160.714161152744
+rust,pipeline,copy_pipeline,2,1.8373,1088.5538556095607
+rust,pipeline,view_pipeline,2,0.1852,10799.1360108038
+rust,pipeline,copy_pipeline,4,3.6689000000000003,1090.2450322739116
+rust,pipeline,view_pipeline,4,0.3702,10804.970257144867
+rust,pipeline,copy_pipeline,8,5.1034,1567.5823957425282
+rust,pipeline,view_pipeline,8,0.7631,10483.553911042389
+rust,pipeline,copy_pipeline,16,11.2405,1423.424224774394
+rust,pipeline,view_pipeline,16,1.6142,9912.030721154732
+rust,pipeline,copy_pipeline,32,21.4055,1494.9428884401232
+rust,pipeline,view_pipeline,32,3.1778,10069.859648162294
+rust,pipeline,copy_pipeline,64,52.1883,1226.328506557479
+rust,pipeline,view_pipeline,64,7.877199999999999,8124.714364479167
